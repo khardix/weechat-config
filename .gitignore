@@ -5,3 +5,6 @@ weechat.log
 # Ignore archives
 *.bz2
 *.gz
+
+# Ignore security files -- certs, encrypted passwords, ...
+*.pem
