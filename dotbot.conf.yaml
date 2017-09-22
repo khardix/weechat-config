@@ -1,0 +1,5 @@
+- link:
+    ~/.weechat:
+      path: ''
+      force: True
+      relink: True
