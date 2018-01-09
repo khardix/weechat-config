@@ -1,6 +1,7 @@
 # Ignore logs
 logs/**
 weechat.log
+urls.log
 
 # Ignore archives
 *.bz2
