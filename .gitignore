@@ -9,3 +9,4 @@ urls.log
 
 # Ignore security files -- certs, encrypted passwords, ...
 *.pem
+sec.conf
